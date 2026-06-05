@@ -1,0 +1,12 @@
+{
+  "name": "wnotifier-proxy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.0.0",
+    "eventsource": "^2.0.2"
+  }
+}
